@@ -1,0 +1,66 @@
+[
+    {
+        "label":"Gatwick",
+        "value":"Gatwick" 
+    },
+    {
+        "label":"Aberdeen",
+        "value":"Aberdeen"
+    },
+    {
+        "label":"Birmingham",
+        "value":"Birmingham"
+    },
+    {
+        "label":"Bournemouth",
+        "value":"Bournemouth"
+    },
+    {
+        "label":"Bristol",
+        "value":"Bristol"
+    },
+    {
+        "label":"Cardiff",
+        "value":"Cardiff"
+    },
+    {
+        "label":"Doncaster",
+        "value":"Doncaster"
+    },
+    {
+        "label":"East Midlands",
+        "value":"East Midlands"
+    },
+    {
+        "label":"Edinburgh",
+        "value":"Edinburgh"
+    },
+    {
+        "label":"Glasgow",
+        "value":"Glasgow"
+    },
+    {
+        "label":"Heathrow",
+        "value":"Heathrow"
+    },
+    {
+        "label":"Leeds Bradford",
+        "value":"Leeds Bradford"
+    },
+    {
+        "label":"Liverpool",
+        "value":"Liverpool"
+    },
+    {
+        "label":"Luton",
+        "value":"Luton"
+    },
+    {
+        "label":"Manchester",
+        "value":"Manchester"
+    },
+    {
+        "label":"Stansted",
+        "value":"Stansted"
+    }
+]
