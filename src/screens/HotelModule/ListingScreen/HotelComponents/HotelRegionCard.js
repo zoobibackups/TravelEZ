@@ -85,7 +85,7 @@ const HotelRegionCard = ({item, user_search_data}) => {
         resizeMode={'stretch'}
         style={{width: wp(30), padding: wp(2)}}
         source={{
-          uri: `${hotel_info?.data.images[0]}`.replace('{size}', '240x240'),
+          uri: `${hotel_info?.data?.images[0]}`.replace('{size}', '240x240'),
         }}>
         <View
           style={{
